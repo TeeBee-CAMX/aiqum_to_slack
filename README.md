@@ -1,4 +1,4 @@
-# aiqum_to_slackHere is a AIQUM to Slack integration that runs on the AIQUM appliance or linux install (as long as the linux install includes curl. The appliance includes curl by default)
+# Here is a AIQUM to Slack integration that runs on the AIQUM appliance or linux install (as long as the linux install includes curl. The appliance includes curl by default)
 
 I've tested this on 9.11-9.13. It's nothing special. I imagine it works on many more versions.
 
